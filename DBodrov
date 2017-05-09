@@ -1,0 +1,146 @@
+00:08:48>ver=4 hlen=20 tos=00000000 len=905  id=380   flags=010 offset=0 ttl=128ms prot=6  crc=F98  src=192.168.100.6   dest=172.217.20.211 
+00:08:48>ver=4 hlen=20 tos=00000000 len=40   id=64572 flags=000 offset=0 ttl= 56ms prot=6  crc=A038 src=172.217.20.211  dest=192.168.100.6  
+00:08:48>ver=4 hlen=20 tos=00000000 len=280  id=64764 flags=000 offset=0 ttl= 56ms prot=6  crc=9E88 src=172.217.20.211  dest=192.168.100.6  
+00:08:48>ver=4 hlen=20 tos=00000000 len=40   id=381   flags=010 offset=0 ttl=128ms prot=6  crc=12F8 src=192.168.100.6   dest=172.217.20.211 
+00:08:49>ver=4 hlen=20 tos=00000000 len=357  id=64765 flags=000 offset=0 ttl= 56ms prot=6  crc=9E3A src=172.217.20.211  dest=192.168.100.6  
+00:08:49>ver=4 hlen=20 tos=00000000 len=86   id=64766 flags=000 offset=0 ttl= 56ms prot=6  crc=9F48 src=172.217.20.211  dest=192.168.100.6  
+00:08:49>ver=4 hlen=20 tos=00000000 len=52   id=64791 flags=000 offset=0 ttl= 56ms prot=6  crc=9F51 src=172.217.20.211  dest=192.168.100.6  
+00:08:49>ver=4 hlen=20 tos=00000000 len=52   id=382   flags=010 offset=0 ttl=128ms prot=6  crc=12EB src=192.168.100.6   dest=172.217.20.211 
+00:08:49>ver=4 hlen=20 tos=00000000 len=86   id=64875 flags=000 offset=0 ttl= 56ms prot=6  crc=9EDB src=172.217.20.211  dest=192.168.100.6  
+00:08:49>ver=4 hlen=20 tos=00000000 len=86   id=383   flags=010 offset=0 ttl=128ms prot=6  crc=12C8 src=192.168.100.6   dest=172.217.20.211 
+00:08:49>ver=4 hlen=20 tos=00000000 len=40   id=65015 flags=000 offset=0 ttl= 56ms prot=6  crc=9E7D src=172.217.20.211  dest=192.168.100.6  
+00:08:50>ver=4 hlen=20 tos=00000000 len=82   id=8012  flags=010 offset=0 ttl=128ms prot=6  crc=5213 src=192.168.100.6   dest=95.213.4.195   
+00:08:50>ver=4 hlen=20 tos=00000000 len=117  id=8013  flags=010 offset=0 ttl=128ms prot=6  crc=51EF src=192.168.100.6   dest=95.213.4.195   
+00:08:50>ver=4 hlen=20 tos=00000000 len=416  id=8014  flags=010 offset=0 ttl=128ms prot=6  crc=50C3 src=192.168.100.6   dest=95.213.4.195   
+00:08:50>ver=4 hlen=20 tos=00000000 len=52   id=9616  flags=010 offset=0 ttl= 54ms prot=6  crc=95ED src=95.213.4.195    dest=192.168.100.6  
+00:08:50>ver=4 hlen=20 tos=00000000 len=40   id=9617  flags=010 offset=0 ttl= 54ms prot=6  crc=95F8 src=95.213.4.195    dest=192.168.100.6  
+00:08:50>ver=4 hlen=20 tos=00000000 len=75   id=20073 flags=000 offset=0 ttl= 45ms prot=6  crc=37F0 src=64.233.161.188  dest=192.168.100.6  
+00:08:50>ver=4 hlen=20 tos=00000000 len=63   id=2968  flags=000 offset=0 ttl=128ms prot=17 crc=E5BD src=192.168.100.6   dest=192.168.100.1  
+00:08:51>ver=4 hlen=20 tos=00000000 len=63   id=2969  flags=000 offset=0 ttl=128ms prot=17 crc=E5BC src=192.168.100.6   dest=192.168.100.1  
+00:08:51>ver=4 hlen=20 tos=00000000 len=48   id=5706  flags=010 offset=0 ttl=128ms prot=6  crc=9B21 src=192.168.100.5   dest=192.168.100.6  
+00:08:51>ver=4 hlen=20 tos=00000000 len=48   id=27437 flags=010 offset=0 ttl=128ms prot=6  crc=463E src=192.168.100.6   dest=192.168.100.5  
+00:08:51>ver=4 hlen=20 tos=00000000 len=40   id=5707  flags=010 offset=0 ttl=128ms prot=6  crc=9B28 src=192.168.100.5   dest=192.168.100.6  
+00:08:51>ver=4 hlen=20 tos=00000000 len=274  id=5708  flags=010 offset=0 ttl=128ms prot=6  crc=9A3D src=192.168.100.5   dest=192.168.100.6  
+00:08:51>ver=4 hlen=20 tos=00000000 len=40   id=27438 flags=010 offset=0 ttl=128ms prot=6  crc=4645 src=192.168.100.6   dest=192.168.100.5  
+00:08:52>ver=4 hlen=20 tos=00000000 len=302  id=27439 flags=010 offset=0 ttl=128ms prot=6  crc=453E src=192.168.100.6   dest=192.168.100.5  
+00:08:52>ver=4 hlen=20 tos=00000000 len=40   id=5709  flags=010 offset=0 ttl=128ms prot=6  crc=9B26 src=192.168.100.5   dest=192.168.100.6  
+00:08:52>ver=4 hlen=20 tos=00000000 len=48   id=5710  flags=010 offset=0 ttl=128ms prot=6  crc=9B1D src=192.168.100.5   dest=192.168.100.6  
+00:08:52>ver=4 hlen=20 tos=00000000 len=40   id=27440 flags=010 offset=0 ttl=128ms prot=6  crc=4643 src=192.168.100.6   dest=192.168.100.5  
+00:08:52>ver=4 hlen=20 tos=00000000 len=63   id=2974  flags=000 offset=0 ttl=128ms prot=17 crc=E5B7 src=192.168.100.6   dest=192.168.100.1  
+00:08:52>ver=4 hlen=20 tos=00000000 len=48   id=5711  flags=010 offset=0 ttl=128ms prot=6  crc=9B1C src=192.168.100.5   dest=192.168.100.6  
+00:08:52>ver=4 hlen=20 tos=00000000 len=48   id=27442 flags=010 offset=0 ttl=128ms prot=6  crc=4639 src=192.168.100.6   dest=192.168.100.5  
+00:08:53>ver=4 hlen=20 tos=00000000 len=40   id=5712  flags=010 offset=0 ttl=128ms prot=6  crc=9B23 src=192.168.100.5   dest=192.168.100.6  
+00:08:53>ver=4 hlen=20 tos=00000000 len=274  id=5713  flags=010 offset=0 ttl=128ms prot=6  crc=9A38 src=192.168.100.5   dest=192.168.100.6  
+00:08:53>ver=4 hlen=20 tos=00000000 len=40   id=26618 flags=010 offset=0 ttl=128ms prot=6  crc=101A src=192.168.100.6   dest=159.8.191.4    
+00:08:53>ver=4 hlen=20 tos=00000000 len=72   id=2976  flags=000 offset=0 ttl=128ms prot=17 crc=E5AC src=192.168.100.6   dest=192.168.100.1  
+00:08:53>ver=4 hlen=20 tos=00000000 len=40   id=27444 flags=010 offset=0 ttl=128ms prot=6  crc=463F src=192.168.100.6   dest=192.168.100.5  
+00:08:53>ver=4 hlen=20 tos=00000000 len=302  id=27445 flags=010 offset=0 ttl=128ms prot=6  crc=4538 src=192.168.100.6   dest=192.168.100.5  
+00:08:53>ver=4 hlen=20 tos=00000000 len=72   id=2979  flags=000 offset=0 ttl=128ms prot=17 crc=E5A9 src=192.168.100.6   dest=192.168.100.1  
+00:08:54>ver=4 hlen=20 tos=00000000 len=40   id=5714  flags=010 offset=0 ttl=128ms prot=6  crc=9B21 src=192.168.100.5   dest=192.168.100.6  
+00:08:54>ver=4 hlen=20 tos=00000000 len=48   id=5715  flags=010 offset=0 ttl=128ms prot=6  crc=9B18 src=192.168.100.5   dest=192.168.100.6  
+00:08:54>ver=4 hlen=20 tos=00000000 len=40   id=27447 flags=010 offset=0 ttl=128ms prot=6  crc=463C src=192.168.100.6   dest=192.168.100.5  
+00:08:54>ver=4 hlen=20 tos=00000000 len=41   id=16307 flags=010 offset=0 ttl=128ms prot=6  crc=AED  src=192.168.100.6   dest=173.194.221.189
+00:08:54>ver=4 hlen=20 tos=00000000 len=82   id=16308 flags=010 offset=0 ttl=128ms prot=6  crc=AC3  src=192.168.100.6   dest=173.194.221.189
+00:08:54>ver=4 hlen=20 tos=00000000 len=73   id=2981  flags=000 offset=0 ttl=128ms prot=17 crc=E5A6 src=192.168.100.6   dest=192.168.100.1  
+00:08:55>ver=4 hlen=20 tos=00000000 len=73   id=2982  flags=000 offset=0 ttl=128ms prot=17 crc=E5A5 src=192.168.100.6   dest=192.168.100.1  
+00:08:55>ver=4 hlen=20 tos=00000000 len=239  id=16309 flags=010 offset=0 ttl=128ms prot=6  crc=A25  src=192.168.100.6   dest=173.194.221.189
+00:08:55>ver=4 hlen=20 tos=00000000 len=281  id=16310 flags=010 offset=0 ttl=128ms prot=6  crc=9FA  src=192.168.100.6   dest=173.194.221.189
+00:08:55>ver=4 hlen=20 tos=00000000 len=281  id=16311 flags=010 offset=0 ttl=128ms prot=6  crc=9F9  src=192.168.100.6   dest=173.194.221.189
+00:08:55>ver=4 hlen=20 tos=00000000 len=72   id=2983  flags=000 offset=0 ttl=128ms prot=17 crc=E5A5 src=192.168.100.6   dest=192.168.100.1  
+00:08:55>ver=4 hlen=20 tos=00000000 len=63   id=2984  flags=000 offset=0 ttl=128ms prot=17 crc=E5AD src=192.168.100.6   dest=192.168.100.1  
+00:08:55>ver=4 hlen=20 tos=00000000 len=281  id=16312 flags=010 offset=0 ttl=128ms prot=6  crc=9F8  src=192.168.100.6   dest=173.194.221.189
+00:08:56>ver=4 hlen=20 tos=00000000 len=73   id=2985  flags=000 offset=0 ttl=128ms prot=17 crc=E5A2 src=192.168.100.6   dest=192.168.100.1  
+00:08:56>ver=4 hlen=20 tos=00000000 len=281  id=16313 flags=000 offset=0 ttl=128ms prot=6  crc=49F7 src=192.168.100.6   dest=173.194.221.189
+00:08:56>ver=4 hlen=20 tos=00000000 len=72   id=2986  flags=000 offset=0 ttl=128ms prot=17 crc=E5A2 src=192.168.100.6   dest=192.168.100.1  
+00:08:56>ver=4 hlen=20 tos=00000000 len=73   id=2987  flags=000 offset=0 ttl=128ms prot=17 crc=E5A0 src=192.168.100.6   dest=192.168.100.1  
+00:08:56>ver=4 hlen=20 tos=00000000 len=281  id=16314 flags=000 offset=0 ttl=128ms prot=6  crc=49F6 src=192.168.100.6   dest=173.194.221.189
+00:08:56>ver=4 hlen=20 tos=00000000 len=41   id=9413  flags=010 offset=0 ttl=128ms prot=6  crc=4CAD src=192.168.100.6   dest=95.213.4.217   
+00:08:57>ver=4 hlen=20 tos=00000000 len=281  id=16315 flags=010 offset=0 ttl=128ms prot=6  crc=9F5  src=192.168.100.6   dest=173.194.221.189
+00:08:57>ver=4 hlen=20 tos=00000000 len=63   id=2988  flags=000 offset=0 ttl=128ms prot=17 crc=E5A9 src=192.168.100.6   dest=192.168.100.1  
+00:08:57>ver=4 hlen=20 tos=00000000 len=89   id=31561 flags=000 offset=0 ttl=128ms prot=17 crc=6827 src=192.168.100.6   dest=157.56.149.60  
+00:08:57>ver=4 hlen=20 tos=00000000 len=578  id=24526 flags=000 offset=0 ttl= 56ms prot=6  crc=3AB6 src=172.217.20.170  dest=192.168.100.6  
+00:08:57>ver=4 hlen=20 tos=00000000 len=578  id=24599 flags=000 offset=0 ttl= 56ms prot=6  crc=3A6D src=172.217.20.170  dest=192.168.100.6  
+00:08:57>ver=4 hlen=20 tos=00000000 len=137  id=1417  flags=000 offset=0 ttl= 42ms prot=17 crc=33B8 src=157.56.149.60   dest=192.168.100.6  
+00:08:57>ver=4 hlen=20 tos=00000000 len=578  id=24621 flags=000 offset=0 ttl= 56ms prot=6  crc=3A57 src=172.217.20.170  dest=192.168.100.6  
+00:08:58>ver=4 hlen=20 tos=00000000 len=578  id=24793 flags=000 offset=0 ttl= 56ms prot=6  crc=39AB src=172.217.20.170  dest=192.168.100.6  
+00:08:58>ver=4 hlen=20 tos=00000000 len=72   id=2989  flags=000 offset=0 ttl=128ms prot=17 crc=E59F src=192.168.100.6   dest=192.168.100.1  
+00:08:58>ver=4 hlen=20 tos=00000000 len=88   id=0     flags=010 offset=0 ttl= 64ms prot=17 crc=F13C src=192.168.100.1   dest=192.168.100.6  
+00:08:58>ver=4 hlen=20 tos=00000000 len=52   id=26619 flags=010 offset=0 ttl=128ms prot=6  crc=100D src=192.168.100.6   dest=159.8.191.4    
+00:08:58>ver=4 hlen=20 tos=00000000 len=40   id=26620 flags=010 offset=0 ttl=128ms prot=6  crc=1018 src=192.168.100.6   dest=159.8.191.4    
+00:08:58>ver=4 hlen=20 tos=00000000 len=52   id=9684  flags=010 offset=0 ttl=116ms prot=6  crc=5E34 src=159.8.191.4     dest=192.168.100.6  
+00:08:58>ver=4 hlen=20 tos=00000000 len=72   id=26621 flags=010 offset=0 ttl=128ms prot=6  crc=FF7  src=192.168.100.6   dest=159.8.191.4    
+00:08:59>ver=4 hlen=20 tos=00000000 len=72   id=26622 flags=010 offset=0 ttl=128ms prot=6  crc=FF6  src=192.168.100.6   dest=159.8.191.4    
+00:08:59>ver=4 hlen=20 tos=00000000 len=281  id=16316 flags=010 offset=0 ttl=128ms prot=6  crc=9F4  src=192.168.100.6   dest=173.194.221.189
+00:08:59>ver=4 hlen=20 tos=00000000 len=72   id=26623 flags=010 offset=0 ttl=128ms prot=6  crc=FF5  src=192.168.100.6   dest=159.8.191.4    
+00:08:59>ver=4 hlen=20 tos=00000000 len=73   id=2990  flags=000 offset=0 ttl=128ms prot=17 crc=E59D src=192.168.100.6   dest=192.168.100.1  
+00:08:59>ver=4 hlen=20 tos=00000000 len=52   id=9687  flags=010 offset=0 ttl=116ms prot=6  crc=5E31 src=159.8.191.4     dest=192.168.100.6  
+00:08:59>ver=4 hlen=20 tos=00000000 len=68   id=9688  flags=010 offset=0 ttl=116ms prot=6  crc=5E20 src=159.8.191.4     dest=192.168.100.6  
+00:09:00>ver=4 hlen=20 tos=00000000 len=40   id=43545 flags=000 offset=0 ttl= 45ms prot=6  crc=3388 src=173.194.221.189 dest=192.168.100.6  
+00:09:00>ver=4 hlen=20 tos=00000000 len=52   id=9689  flags=010 offset=0 ttl=116ms prot=6  crc=5E2F src=159.8.191.4     dest=192.168.100.6  
+00:09:00>ver=4 hlen=20 tos=00000000 len=89   id=0     flags=010 offset=0 ttl= 64ms prot=17 crc=F13B src=192.168.100.1   dest=192.168.100.6  
+00:09:00>ver=4 hlen=20 tos=00000000 len=40   id=26624 flags=010 offset=0 ttl=128ms prot=6  crc=1014 src=192.168.100.6   dest=159.8.191.4    
+00:09:00>ver=4 hlen=20 tos=00000000 len=40   id=26625 flags=010 offset=0 ttl=128ms prot=6  crc=1013 src=192.168.100.6   dest=159.8.191.4    
+00:09:00>ver=4 hlen=20 tos=00000000 len=40   id=9690  flags=010 offset=0 ttl=116ms prot=6  crc=5E3A src=159.8.191.4     dest=192.168.100.6  
+00:09:00>ver=4 hlen=20 tos=00000000 len=40   id=9691  flags=010 offset=0 ttl=116ms prot=6  crc=5E39 src=159.8.191.4     dest=192.168.100.6  
+00:09:01>ver=4 hlen=20 tos=00000000 len=578  id=25320 flags=000 offset=0 ttl= 56ms prot=6  crc=379C src=172.217.20.170  dest=192.168.100.6  
+00:09:01>ver=4 hlen=20 tos=00000000 len=86   id=20745 flags=000 offset=0 ttl=255ms prot=17 crc=0    src=192.168.100.6   dest=224.0.0.251    
+00:09:01>ver=4 hlen=20 tos=00000000 len=86   id=20745 flags=000 offset=0 ttl=255ms prot=17 crc=64E3 src=192.168.100.6   dest=224.0.0.251    
+00:09:01>ver=4 hlen=20 tos=00000000 len=1378 id=12561 flags=010 offset=0 ttl=128ms prot=17 crc=BB24 src=192.168.100.6   dest=64.233.163.189 
+00:09:01>ver=4 hlen=20 tos=00000000 len=52   id=12562 flags=010 offset=0 ttl=128ms prot=6  crc=C05C src=192.168.100.6   dest=64.233.163.189 
+00:09:01>ver=4 hlen=20 tos=00000000 len=1378 id=0     flags=010 offset=0 ttl= 45ms prot=17 crc=3F36 src=64.233.163.189  dest=192.168.100.6  
+00:09:02>ver=4 hlen=20 tos=00000000 len=59   id=0     flags=010 offset=0 ttl= 45ms prot=17 crc=445D src=64.233.163.189  dest=192.168.100.6  
+00:09:02>ver=4 hlen=20 tos=00000000 len=55   id=0     flags=010 offset=0 ttl= 45ms prot=17 crc=4461 src=64.233.163.189  dest=192.168.100.6  
+00:09:02>ver=4 hlen=20 tos=00000000 len=40   id=12563 flags=010 offset=0 ttl=128ms prot=6  crc=C067 src=192.168.100.6   dest=64.233.163.189 
+00:09:02>ver=4 hlen=20 tos=00000000 len=52   id=63276 flags=000 offset=0 ttl= 45ms prot=6  crc=8D42 src=64.233.163.189  dest=192.168.100.6  
+00:09:02>ver=4 hlen=20 tos=00000000 len=1378 id=0     flags=010 offset=0 ttl= 45ms prot=17 crc=3F36 src=64.233.163.189  dest=192.168.100.6  
+00:09:02>ver=4 hlen=20 tos=00000000 len=1378 id=0     flags=010 offset=0 ttl= 45ms prot=17 crc=3F36 src=64.233.163.189  dest=192.168.100.6  
+00:09:02>ver=4 hlen=20 tos=00000000 len=67   id=12564 flags=010 offset=0 ttl=128ms prot=17 crc=C040 src=192.168.100.6   dest=64.233.163.189 
+00:09:03>ver=4 hlen=20 tos=00000000 len=66   id=12565 flags=010 offset=0 ttl=128ms prot=17 crc=C040 src=192.168.100.6   dest=64.233.163.189 
+00:09:03>ver=4 hlen=20 tos=00000000 len=69   id=12566 flags=010 offset=0 ttl=128ms prot=17 crc=C03C src=192.168.100.6   dest=64.233.163.189 
+00:09:03>ver=4 hlen=20 tos=00000000 len=1195 id=12567 flags=010 offset=0 ttl=128ms prot=17 crc=BBD5 src=192.168.100.6   dest=64.233.163.189 
+00:09:03>ver=4 hlen=20 tos=00000000 len=61   id=0     flags=010 offset=0 ttl= 45ms prot=17 crc=445B src=64.233.163.189  dest=192.168.100.6  
+00:09:03>ver=4 hlen=20 tos=00000000 len=279  id=0     flags=010 offset=0 ttl= 45ms prot=17 crc=4381 src=64.233.163.189  dest=192.168.100.6  
+00:09:03>ver=4 hlen=20 tos=00000000 len=66   id=0     flags=010 offset=0 ttl= 45ms prot=17 crc=4456 src=64.233.163.189  dest=192.168.100.6  
+00:09:03>ver=4 hlen=20 tos=00000000 len=557  id=12568 flags=010 offset=0 ttl=128ms prot=6  crc=BE5D src=192.168.100.6   dest=64.233.163.189 
+00:09:04>ver=4 hlen=20 tos=00000000 len=69   id=12569 flags=010 offset=0 ttl=128ms prot=17 crc=C039 src=192.168.100.6   dest=64.233.163.189 
+00:09:04>ver=4 hlen=20 tos=00000000 len=40   id=63383 flags=000 offset=0 ttl= 45ms prot=6  crc=8CE3 src=64.233.163.189  dest=192.168.100.6  
+00:09:04>ver=4 hlen=20 tos=00000000 len=200  id=63384 flags=000 offset=0 ttl= 45ms prot=6  crc=8C42 src=64.233.163.189  dest=192.168.100.6  
+00:09:04>ver=4 hlen=20 tos=00000000 len=40   id=12570 flags=010 offset=0 ttl=128ms prot=6  crc=C060 src=192.168.100.6   dest=64.233.163.189 
+00:09:04>ver=4 hlen=20 tos=00000000 len=256  id=12571 flags=010 offset=0 ttl=128ms prot=6  crc=BF87 src=192.168.100.6   dest=64.233.163.189 
+00:09:04>ver=4 hlen=20 tos=00000000 len=72   id=2991  flags=000 offset=0 ttl=128ms prot=17 crc=E59D src=192.168.100.6   dest=192.168.100.1  
+00:09:05>ver=4 hlen=20 tos=00000000 len=93   id=12572 flags=010 offset=0 ttl=128ms prot=6  crc=C029 src=192.168.100.6   dest=64.233.163.189 
+00:09:05>ver=4 hlen=20 tos=00000000 len=96   id=12573 flags=010 offset=0 ttl=128ms prot=6  crc=C025 src=192.168.100.6   dest=64.233.163.189 
+00:09:05>ver=4 hlen=20 tos=00000000 len=82   id=12574 flags=010 offset=0 ttl=128ms prot=6  crc=C032 src=192.168.100.6   dest=64.233.163.189 
+00:09:05>ver=4 hlen=20 tos=00000000 len=72   id=2992  flags=000 offset=0 ttl=128ms prot=17 crc=E59C src=192.168.100.6   dest=192.168.100.1  
+00:09:05>ver=4 hlen=20 tos=00000000 len=40   id=12575 flags=010 offset=0 ttl=128ms prot=6  crc=C05B src=192.168.100.6   dest=64.233.163.189 
+00:09:05>ver=4 hlen=20 tos=00000000 len=96   id=63395 flags=000 offset=0 ttl= 45ms prot=6  crc=8C9F src=64.233.163.189  dest=192.168.100.6  
+00:09:05>ver=4 hlen=20 tos=00000000 len=82   id=63396 flags=000 offset=0 ttl= 45ms prot=6  crc=8CAC src=64.233.163.189  dest=192.168.100.6  
+00:09:06>ver=4 hlen=20 tos=00000000 len=88   id=0     flags=010 offset=0 ttl= 64ms prot=17 crc=F13C src=192.168.100.1   dest=192.168.100.6  
+00:09:06>ver=4 hlen=20 tos=00000000 len=52   id=1419  flags=010 offset=0 ttl=128ms prot=6  crc=8121 src=192.168.100.6   dest=178.255.156.105
+00:09:06>ver=4 hlen=20 tos=00000000 len=40   id=63402 flags=000 offset=0 ttl= 45ms prot=6  crc=8CD0 src=64.233.163.189  dest=192.168.100.6  
+00:09:06>ver=4 hlen=20 tos=00000000 len=52   id=63401 flags=000 offset=0 ttl= 45ms prot=6  crc=8CC5 src=64.233.163.189  dest=192.168.100.6  
+00:09:06>ver=4 hlen=20 tos=00000000 len=78   id=63403 flags=000 offset=0 ttl= 45ms prot=6  crc=8CA9 src=64.233.163.189  dest=192.168.100.6  
+00:09:06>ver=4 hlen=20 tos=00000000 len=40   id=12576 flags=010 offset=0 ttl=128ms prot=6  crc=C05A src=192.168.100.6   dest=64.233.163.189 
+00:09:07>ver=4 hlen=20 tos=00000000 len=40   id=1420  flags=010 offset=0 ttl=128ms prot=6  crc=812C src=192.168.100.6   dest=178.255.156.105
+00:09:07>ver=4 hlen=20 tos=00000000 len=52   id=25308 flags=010 offset=0 ttl=117ms prot=6  crc=2ED0 src=178.255.156.105 dest=192.168.100.6  
+00:09:07>ver=4 hlen=20 tos=00000000 len=77   id=1421  flags=010 offset=0 ttl=128ms prot=6  crc=8106 src=192.168.100.6   dest=178.255.156.105
+00:09:07>ver=4 hlen=20 tos=00000000 len=78   id=12577 flags=010 offset=0 ttl=128ms prot=6  crc=C033 src=192.168.100.6   dest=64.233.163.189 
+00:09:07>ver=4 hlen=20 tos=00000000 len=69   id=1422  flags=010 offset=0 ttl=128ms prot=6  crc=810D src=192.168.100.6   dest=178.255.156.105
+00:09:07>ver=4 hlen=20 tos=00000000 len=72   id=25309 flags=010 offset=0 ttl=117ms prot=6  crc=2EBB src=178.255.156.105 dest=192.168.100.6  
+00:09:07>ver=4 hlen=20 tos=00000000 len=96   id=25310 flags=010 offset=0 ttl=117ms prot=6  crc=2EA2 src=178.255.156.105 dest=192.168.100.6  
+00:09:08>ver=4 hlen=20 tos=00000000 len=127  id=1423  flags=010 offset=0 ttl=128ms prot=6  crc=80D2 src=192.168.100.6   dest=178.255.156.105
+00:09:08>ver=4 hlen=20 tos=00000000 len=40   id=63451 flags=000 offset=0 ttl= 45ms prot=6  crc=8C9F src=64.233.163.189  dest=192.168.100.6  
+00:09:08>ver=4 hlen=20 tos=00000000 len=120  id=25311 flags=010 offset=0 ttl=117ms prot=6  crc=2E89 src=178.255.156.105 dest=192.168.100.6  
+00:09:08>ver=4 hlen=20 tos=00000000 len=40   id=1424  flags=010 offset=0 ttl=128ms prot=6  crc=8128 src=192.168.100.6   dest=178.255.156.105
+00:09:08>ver=4 hlen=20 tos=00000000 len=48   id=5718  flags=010 offset=0 ttl=128ms prot=6  crc=9B15 src=192.168.100.5   dest=192.168.100.6  
+00:09:08>ver=4 hlen=20 tos=00000000 len=48   id=27460 flags=010 offset=0 ttl=128ms prot=6  crc=4627 src=192.168.100.6   dest=192.168.100.5  
+00:09:09>ver=4 hlen=20 tos=00000000 len=40   id=5719  flags=010 offset=0 ttl=128ms prot=6  crc=9B1C src=192.168.100.5   dest=192.168.100.6  
+00:09:10>ver=4 hlen=20 tos=00000000 len=274  id=5720  flags=010 offset=0 ttl=128ms prot=6  crc=9A31 src=192.168.100.5   dest=192.168.100.6  
+00:09:10>ver=4 hlen=20 tos=00000000 len=40   id=27461 flags=010 offset=0 ttl=128ms prot=6  crc=462E src=192.168.100.6   dest=192.168.100.5  
+00:09:10>ver=4 hlen=20 tos=00000000 len=302  id=27462 flags=010 offset=0 ttl=128ms prot=6  crc=4527 src=192.168.100.6   dest=192.168.100.5  
+00:09:10>ver=4 hlen=20 tos=00000000 len=40   id=5721  flags=010 offset=0 ttl=128ms prot=6  crc=9B1A src=192.168.100.5   dest=192.168.100.6  
+00:09:10>ver=4 hlen=20 tos=00000000 len=48   id=5722  flags=010 offset=0 ttl=128ms prot=6  crc=9B11 src=192.168.100.5   dest=192.168.100.6  
+00:09:10>ver=4 hlen=20 tos=00000000 len=40   id=27463 flags=010 offset=0 ttl=128ms prot=6  crc=462C src=192.168.100.6   dest=192.168.100.5  
+00:09:11>ver=4 hlen=20 tos=00000000 len=96   id=1425  flags=010 offset=0 ttl=128ms prot=6  crc=80EF src=192.168.100.6   dest=178.255.156.105
+00:09:11>ver=4 hlen=20 tos=00000000 len=187  id=25312 flags=010 offset=0 ttl=117ms prot=6  crc=2E45 src=178.255.156.105 dest=192.168.100.6  
+00:09:11>ver=4 hlen=20 tos=00000000
